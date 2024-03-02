@@ -5,7 +5,7 @@
 1. Clone the project form git
     * git clone `https://github.com/Jigi-kiri/even-todo-list.git`
 
-2. Redirect to the directory
+2. Redirect to the directory if it's current dirctory
     * cd `even-todo-list`/
 
 3. Run below command
