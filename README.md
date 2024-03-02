@@ -10,3 +10,11 @@
 
 3. Run below command
     * `python to-do.py` with number of todos (optinal)
+
+## Run with docker build
+
+1. Create docker image
+    * `docker build -t even-todo-list`
+
+2. Run the container with or without a argument
+    * `docker run even-todo-list` with number of todos (optinal)
